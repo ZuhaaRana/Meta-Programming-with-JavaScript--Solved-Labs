@@ -1,6 +1,5 @@
-
 # Lab Instructions: Unit Testing
- 
+
 > ### **Tips: Before you Begin**
 > #### **To view your code and instructions side-by-side**, select the following in your VSCode toolbar:
 > - View -> Editor Layout -> Two Columns
